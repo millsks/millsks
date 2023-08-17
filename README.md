@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Kevin Mills (@millsks)
 - 👀 I’m interested in Python, REST APIs, network programming, systems programming, and AI/ML.
-<!---
-- 🌱 I’m currently working on my Masters in Computer Science at the University of South Dakota.
---->
+<!---🌱 I’m currently working on my Masters in Computer Science at the University of South Dakota.-->
 - 💞️ I’m looking to collaborate on anything where I can help.
 - 📫 How to reach me at millsks@gmail.com
 
